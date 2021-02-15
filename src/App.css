@@ -6,6 +6,9 @@
   height: 40vmin;
   pointer-events: none;
 }
+.app-input{
+  margin: 20px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -35,4 +38,7 @@
   to {
     transform: rotate(360deg);
   }
+}
+h1{
+  font-family: 'Hanalei', cursive;
 }
